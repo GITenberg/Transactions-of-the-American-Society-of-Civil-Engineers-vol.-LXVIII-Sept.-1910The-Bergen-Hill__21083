@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9721'
     url: http://www.gutenberg.org/2009/agents/9721
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21083#Transactions-of-the-American-Society-of-Civil-Engineers-vol.-LXVIII-Sept.-1910The-Bergen-Hill_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2007-04-15'
 gutenberg_type: Text
